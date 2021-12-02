@@ -1,0 +1,14 @@
+{
+  "name": "test-plugin",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "author": "sema@miro.com",
+  "license": "MIT",
+  "scripts": {
+    "serve": "yarn http-server ./static"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "typescript": "^4.2.4"
+  }
+}
